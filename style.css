@@ -1,9 +1,9 @@
 @font-face{
- src: url("fonts/Roboto-Regular.ttf");
- font-family:"Roboto";
+ src: url(Roboto-Regular.ttf);
+ font-family:'Roboto';
 }
 @font-face{
- src: url("fonts/MeriendaOne-Regular.ttf");
+ src: url(MeriendaOne-Regular.ttf);
  font-family:One;
 }
  h1 {
@@ -12,7 +12,7 @@ font-family:"Open Sans", sans-serif;
  }
  .p1 {
 font-size:10px;
-font-family:Roboto, sans-serif;
+font-family:'Roboto', sans-serif;
  }
 
  .p2 {
