@@ -2,12 +2,10 @@
  src: url(fonts/Roboto-Regular.ttf)
  font-family:Roboto;
 }
-
 @font-face{
  src: url(fonts/MeriendaOne-Regular.ttf)
  font-family:One;
 }
-
  h1 {
 font-size:30px;
 font-family: 'Open Sans', sans-serif;
