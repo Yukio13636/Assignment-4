@@ -1,9 +1,9 @@
 @font-face{
- src: url(fonts/Roboto-Regular.ttf)
+ src: url(fonts/Roboto-Regular.ttf);
  font-family:Roboto;
 }
 @font-face{
- src: url(fonts/MeriendaOne-Regular.ttf)
+ src: url(fonts/MeriendaOne-Regular.ttf);
  font-family:One;
 }
  h1 {
